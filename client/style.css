@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+.main-title {
+	font-family: 'Inter', sans-serif;
+	text-align: left;
+	/* font-size: 3.5rem; */
+	background-color: bisque;
+}
+.courses-title {
+	font-size: calc(1rem + 0.5vw);
+	font-weight: 300;
+}
+.course-list {
+	font-size: calc(1rem + 0.5vw);
+	font-weight: 300;
+}
+.highlights-list {
+	font-size: calc(1rem + 0.5vw);
+	font-weight: 300;
+}
+.padding-left {
+	padding-left: 40px;
+}
+.padding-left-contact {
+	padding-left: 100px;
+}
+.padding {
+	padding: 40px;
+}
+.page-container {
+	padding: 20px 100px;
+}
+.margin-left {
+	margin-left: 40px;
+}
+@media all and (max-width: 600px) {
+	.padding {
+		padding: 10px;
+	}
+	.padding-left {
+		padding-left: 10px;
+	}
+	.padding-left-contact {
+		padding-left: 40px;
+	}
+	.page-container {
+		padding: 20px 20px;
+	}
+	.margin-left {
+		margin-left: 20px;
+	}
+}
