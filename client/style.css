@@ -3,15 +3,15 @@
 	font-family: 'Inter', sans-serif;
 	text-align: left;
 	/* font-size: 3.5rem; */
-	background-color: bisque;
+	/* background-color: bisque; */
 }
 .courses-title {
 	font-size: calc(1rem + 0.5vw);
-	font-weight: 300;
+	font-weight: 400;
 }
 .course-list {
 	font-size: calc(1rem + 0.5vw);
-	font-weight: 400;
+	font-weight: 300;
 }
 .highlights-list {
 	font-size: calc(1rem + 0.5vw);
